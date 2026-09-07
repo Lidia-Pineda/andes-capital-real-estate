@@ -54,13 +54,13 @@ Permite consultar los principales KPIs y observar la evolución de las ventas y 
 
 Permite comparar los ingresos por tipo de propiedad, segmento de cliente y canal de venta.
 
-![Análisis Comercial](análisis_comercial.png)
+![Análisis Comercial](analisis_comercial.png)
 
 ### Análisis de Cohortes
 
 Permite analizar la recurrencia de los clientes después de su primera compra.
 
-![Análisis de Cohortes](análisis_cohortes.png)
+![Análisis de Cohortes](analisis_cohortes.png)
 
 ---
 

@@ -8,6 +8,15 @@ El dashboard transforma los datos de ventas en información visual que permite a
 
 ---
 
+## 👀 Resumen del proyecto
+
+**Rol:** Analista de Datos  
+**Herramienta principal:** Power BI  
+**Habilidades:** DAX, KPIs, análisis comercial, visualización de datos y análisis de cohortes  
+**Entregable:** Dashboard interactivo en Power BI (.pbix)
+
+---
+
 ## 🎯 Objetivo
 
 El objetivo fue responder preguntas de negocio como:
